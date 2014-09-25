@@ -1,0 +1,11 @@
+C:\Users\Sandeep\AppData\Local\Temporary Projects\GodaddyAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sandeep\AppData\Local\Temporary Projects\GodaddyAnalyser\bin\Debug\GodaddyAnalyser.exe
+C:\Users\Sandeep\AppData\Local\Temporary Projects\GodaddyAnalyser\bin\Debug\GodaddyAnalyser.pdb
+C:\Users\Sandeep\AppData\Local\Temporary Projects\GodaddyAnalyser\obj\x86\Debug\GodaddyAnalyser.exe
+C:\Users\Sandeep\AppData\Local\Temporary Projects\GodaddyAnalyser\obj\x86\Debug\GodaddyAnalyser.pdb
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\obj\x86\Debug\GodaddyAnalyser.exe
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\obj\x86\Debug\GodaddyAnalyser.pdb
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\bin\Debug\GodaddyAnalyser.exe
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\bin\Debug\GodaddyAnalyser.pdb
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\bin\Debug\Ionic.Zip.dll
+C:\Users\Sandeep\documents\visual studio 2010\Projects\GodaddyAnalyser\GodaddyAnalyser\obj\x86\Debug\GodaddyAnalyser.csprojResolveAssemblyReference.cache
